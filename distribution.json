@@ -1,31 +1,41 @@
 {
-    "projectName": "SAMP Mobile Việt Nam",
-    "packageName": "com.touch.mobile.dark",
-    "versionHash": "v1.0.0",
-    "cdnCache": "https://github.com/luongvanmanh20082/samp-data/archive/refs/tags/v1.0.0.zip",
-    "cdnLauncher": "https://github.com/luongvanmanh20082/samp-data/archive/refs/tags/v1.0.0.zip",
-    "filesContinue": ["settings.ini", "gta_sa.set", "svconfig.ini"],
-    "launcher": {
-        "appVersion": "1.0.0",
-        "name": "app-release.apk",
-        "hash": "abc12345",
-        "bytes": 25000000
-    },
-    "servers": [
-        {
-            "id": 1,
-            "show": true,
-            "version": "1.0",
-            "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2zJ35a3H8eY1v34X7KEusEUaRtY-CmLInKhVdZBf-YA&s=10",
-            "name": "Server Roleplay Việt Nam",
-            "description": "SA-MP Mobile Online",
-            "address": "193.226.78.187:2839",
-            "sampVersion": "0.3.7",
-            "slot": 500,
-            "bonus": true,
-            "events": []
-        }
-    ],
-    "cache": [],
-    "cacheMode": []
+    "projectName":  "SAMP Mobile Việt Nam",
+    "packageName":  "com.touch.mobile.dark",
+    "versionHash":  "v1.0.0",
+    "cdnCache":  "https://github.com/luongvanmanh20082/samp-data/archive/refs/tags/v1.0.0.zip",
+    "cdnLauncher":  "https://github.com/luongvanmanh20082/samp-data/releases/download/v1.0.0",
+    "filesContinue":  [
+                          "settings.ini",
+                          "gta_sa.set",
+                          "svconfig.ini"
+                      ],
+    "launcher":  {
+                     "appVersion":  "1.0.0",
+                     "name":  "app-release.apk",
+                     "hash":  "992963df9f61c167250ccef9f255bb77",
+                     "bytes":  26738114
+                 },
+    "servers":  [
+                    {
+                        "id":  1,
+                        "show":  true,
+                        "version":  "1.0",
+                        "icon":  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2zJ35a3H8eY1v34X7KEusEUaRtY-CmLInKhVdZBf-YA\u0026s=10",
+                        "name":  "Server Roleplay Việt Nam",
+                        "description":  "SA-MP Mobile Online",
+                        "address":  "193.226.78.187:2839",
+                        "sampVersion":  "0.3.7",
+                        "slot":  500,
+                        "bonus":  true,
+                        "events":  [
+
+                                   ]
+                    }
+                ],
+    "cache":  [
+
+              ],
+    "cacheMode":  [
+
+                  ]
 }
