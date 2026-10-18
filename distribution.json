@@ -1,5 +1,5 @@
 {
-    "projectName":  "SAMP Mobile Việt Nam",
+    "projectName":  "LSG SAMP Roleplay [ 1 ]",
     "packageName":  "com.touch.mobile.dark",
     "versionHash":  "v1.0.0",
     "cdnCache":  "https://github.com/luongvanmanh20082/samp-data/archive/refs/tags/v1.0.0.zip",
@@ -21,8 +21,8 @@
                         "show":  true,
                         "version":  "1.0",
                         "icon":  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2zJ35a3H8eY1v34X7KEusEUaRtY-CmLInKhVdZBf-YA\u0026s=10",
-                        "name":  "Server Roleplay Việt Nam",
-                        "description":  "SA-MP Mobile Online",
+                        "name":  "Nhập vai hết mình - thỏa sức tự do khám phá",
+                        "description":  "LSG SAMP Roleplay [ 1 ]",
                         "address":  "193.226.78.187:2839",
                         "sampVersion":  "0.3.7",
                         "slot":  500,
